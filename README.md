@@ -1,5 +1,5 @@
 
-I graduated from Marista school of Criciúma in 2022.<br>In 2023, I started the Software Engineering course at UniSATC University.
+I graduated from Marista school of Criciúma in 2022.<br>In 2023, I started the Software Engineering course at UniSATC.
 
 
 ## 🌐 Socials:
